@@ -15,8 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+Things I Like About CS193
+- Freindly environment for freshmen
+- Great way to meet new people interested in CS
+- Simple course that still has lots to teach
+- No big exams
+- Cool Lecturers 
 
 1. Numbered
 2. List
